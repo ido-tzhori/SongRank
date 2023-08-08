@@ -1,4 +1,4 @@
 data/
 .env
 .DS_Store
-.track_info.parquet
+.ipynb_checkpoints
