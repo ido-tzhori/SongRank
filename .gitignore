@@ -4,3 +4,4 @@ data/
 .ipynb_checkpoints/
 .track_info.parquet
 song_data/
+data_test/
