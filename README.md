@@ -26,4 +26,4 @@ The methodology and findings are documented comprehensively in the accompanying 
 
 ## References
 
-For more information, please consult our [paper](https://drive.google.com/drive/folders/1_teHtBJQ01X_kNjjwCgSSAUv6lRNdAoi).
+For more information, please consult our [paper](https://drive.google.com/file/d/1HfN3kTJuX2vbhKLCAyPRkIvafhJayMoB/view?usp=drive_link).
